@@ -1,0 +1,4 @@
+Abhay Ayare · Flower Dataset: https://www.kaggle.com/datasets/abhayayare/flower-dataset/data 
+Travel Trip: https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data/data 
+Segmentación clientes básico: https://www.kaggle.com/datasets/samratp/creating-customer-segments
+Pokemon: https://www.kaggle.com/datasets/mlomuscio/pokemon
