@@ -1,0 +1,4 @@
+boxplot triple
+countplot
+
+radarplot
